@@ -1,0 +1,2 @@
+# ActionScript Null Pointer Exception
+This repository demonstrates a common ActionScript error: a null pointer exception that occurs when trying to access a property of an object that might be null or undefined. The `bug.as` file contains the erroneous code, while `bugSolution.as` provides a corrected version with robust error handling.
